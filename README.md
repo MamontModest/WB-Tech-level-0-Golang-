@@ -29,7 +29,7 @@ WB Tech: level # 0 (Golang)
 
 ```cmd
 git clone https://github.com/MamontModest/WB-Tech-level-0-Golang-
-cd L0
+cd WB-Tech-level-0-Golang-
 make docker-compose-up
 make run-subscribeServer
 make run-publisher
